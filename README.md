@@ -1,61 +1,34 @@
-<p align="center">
-  <img src="file_00000000dfb8820ea56f889a3089d6ae.png" width="130">
-</p>
+# Material Keyboard
 
-<h1 align="center">Material Keyboard</h1>
+**Your keyboard, your style.**
 
-<p align="center">
-  Your keyboard, your style.
-</p>
-
-<p align="center">
-  A modern Android keyboard focused on customization, personalization and a smooth typing experience.
-</p>
+A customizable Android keyboard focused on personalization, a modern look, and a smooth typing experience.
 
 ---
 
-## About
+## Overview
 
-Material Keyboard is an Android keyboard project designed to offer a modern visual experience and more ways to personalize your typing environment.
+**Material Keyboard** is an Android keyboard project designed to make everyday typing more personal.
 
-Our goal is to make everyday typing more comfortable, customizable and visually appealing.
-
-## Themes
-
-### Green Theme
-<p align="center">
-  <img src="Screenshot_20261116_204109.jpg" width="85%">
-</p>
-
-### Brown Theme
-<p align="center">
-  <img src="Screenshot_20261116_204123.jpg" width="85%">
-</p>
-
-### Blue Theme
-<p align="center">
-  <img src="Screenshot_20261116_204137.jpg" width="85%">
-</p>
+It combines a modern interface with visual customization, allowing users to choose a style that suits their preferences.
 
 ## Features
 
-- Modern keyboard interface
-- Visual personalization
-- Customizable themes
-- Continuous improvements and updates
+- **Theme Options** — Choose from different visual styles.
+- **Customizable Appearance** — Personalize the look of your keyboard.
+- **Modern Interface** — A clean design for everyday use.
+- **Ongoing Improvements** — The project continues to evolve.
 
 ## Download
 
-Visit the official GitHub repository to find the latest available releases.
+Get the latest available version from the GitHub Releases page.
 
 [Download Material Keyboard](https://github.com/ewertonvitor468-bot/materialkeyboard/releases)
 
-## Developer
+## About the Project
 
-Created by Ewerton Vitor.
+Material Keyboard is created and maintained by **Ewerton Vitor**.
 
 ---
 
-<p align="center">
-  Material Keyboard — Your keyboard, your style.
-</p>
+**Material Keyboard** — Your keyboard, your style.
